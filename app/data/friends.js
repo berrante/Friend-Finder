@@ -2,7 +2,7 @@
 var friendList = [
   {
     name: 'Bridget Errante',
-    profilePic: '../profile.jpg',
+    profilePic: '../../profile.jpg',
     scores: [
       "3",
       "2",
